@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/0xciph3r/zwis"
+	"github.com/0xciph3r/zwis/zwis"
 )
 
 func main() {
