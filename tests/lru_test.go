@@ -6,7 +6,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/NonsoAmadi10/zwis/zwis"
+	"github.com/0xciph3r/zwis/zwis"
 )
 
 func TestLRUCacheConcurrency(t *testing.T) {

@@ -1,12 +1,12 @@
 # Zwis
 An in-memory cache system in Go that supports expirable cache entries and various cache eviction policies including Least Frequently Used (LFU), Least Recently Used (LRU), and Adaptive Replacement Cache (ARC).
 
-[![zwis library workflow](https://github.com/NonsoAmadi10/zwis/actions/workflows/main.yaml/badge.svg)](https://github.com/NonsoAmadi10/zwis/actions/workflows/main.yaml)
+[![zwis library workflow](https://github.com/0xciph3r/zwis/actions/workflows/main.yaml/badge.svg)](https://github.com/0xciph3r/zwis/actions/workflows/main.yaml)
 
 
 ## Installation
 ```bash
-go get github.com/NonsoAmadi10/zwis
+go get github.com/0xciph3r/zwis
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ import (
     "fmt"
     "time"
 
-    "github.com/NonsoAmadi10/zwis/zwis"
+    "github.com/0xciph3r/zwis/zwis"
 )
 
 func main() {

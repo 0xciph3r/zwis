@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/NonsoAmadi10/zwis/zwis"
+	"github.com/0xciph3r/zwis/zwis"
 )
 
 func TestMemoryCache(t *testing.T) {

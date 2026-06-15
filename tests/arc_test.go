@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/NonsoAmadi10/zwis/zwis"
+	"github.com/0xciph3r/zwis/zwis"
 )
 
 func TestARCCache(t *testing.T) {
